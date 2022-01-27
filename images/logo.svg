@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="224" height="44" viewBox="0 0 224 44">
+  <g id="Group_1951" data-name="Group 1951" transform="translate(-190 -63)">
+    <g id="Group_1755" data-name="Group 1755">
+      <g id="Group_1504" data-name="Group 1504" transform="translate(37 -14.388)">
+        <text id="DevVaro" transform="translate(219 112.388)" fill="#1d1d1d" font-size="37" font-family="BookmanOldStyle-BoldItalic, Bookman Old Style" font-weight="700" font-style="italic" letter-spacing="-0.011em"><tspan x="0" y="0">DevVaro</tspan></text>
+      </g>
+      <circle id="Ellipse_75" data-name="Ellipse 75" cx="18.5" cy="18.5" r="18.5" transform="translate(190 65)" fill="#2f2e40"/>
+      <circle id="Ellipse_76" data-name="Ellipse 76" cx="18.5" cy="18.5" r="18.5" transform="translate(210 65)" fill="#ff4900"/>
+      <g id="noun_development_4006579" transform="translate(218.419 71.829)">
+        <g id="Group_1754" data-name="Group 1754" transform="translate(1 5.03)">
+          <path id="Path_6567" data-name="Path 6567" d="M5.171,17.562c.006.006.012.006.024.006a.62.62,0,0,0,.412-.163l1.362-1.259A.6.6,0,0,0,7,15.292L4.953,13.07,7,10.848a.6.6,0,0,0-.03-.854L5.607,8.735a.567.567,0,0,0-.436-.157.593.593,0,0,0-.424.194L1.163,12.658a.6.6,0,0,0,0,.823l3.584,3.886A.593.593,0,0,0,5.171,17.562Z" transform="translate(-1 -6.429)" fill="#fff"/>
+          <path id="Path_6568" data-name="Path 6568" d="M23.236,8.773a.615.615,0,0,0-.86-.036L21.014,10a.6.6,0,0,0-.03.854l2.046,2.222-2.046,2.222a.6.6,0,0,0,.03.854l1.362,1.259a.62.62,0,0,0,.412.163c.012,0,.018,0,.024-.006a.592.592,0,0,0,.424-.194l3.59-3.886a.613.613,0,0,0,0-.823Z" transform="translate(-8.822 -6.43)" fill="#fff"/>
+          <path id="Path_6569" data-name="Path 6569" d="M14.3,5.03a.6.6,0,0,0-.6.515L11.876,17.616a.606.606,0,0,0,.6.7h1.967a.6.6,0,0,0,.6-.515L16.864,5.726a.588.588,0,0,0-.139-.484.612.612,0,0,0-.46-.212Z" transform="translate(-5.29 -5.03)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
